@@ -81,5 +81,5 @@ The dataset includes the following columns:
 
 ## 📬 Connect with Me
 
-Let’s connect on [LinkedIn](linkedin.com/in/himavarshini4/) for collaboration or opportunities!
+Let’s connect on linkedin.com/in/himavarshini4/ for collaboration or opportunities!
 
