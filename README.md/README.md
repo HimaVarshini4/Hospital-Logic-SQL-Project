@@ -81,6 +81,6 @@ The dataset includes the following columns:
 
 ## 📬 Connect with Me
 
-Let’s connect on [LinkedIn] (linkedin.com/in/himavarshini4/) for collaboration or opportunities!
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/himavarshini4/) for collaboration or opportunities!
 
 If you're hiring or know someone looking for SQL / Data Analyst talent — let's connect! 💬
