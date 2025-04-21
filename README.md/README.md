@@ -9,7 +9,8 @@ This project is an end-to-end SQL analysis on a healthcare dataset containing pa
 The dataset includes the following columns:
 - `Name`, `Age`, `Gender`, `Blood Type`,
 - `Medical Condition`, `Date of Admission`,
-- `Doctor`, `Hospital`, `Insurance provider`, `Billing Amount`, `Room Number`,
+- `Doctor`, `Hospital`, `Insurance provider`,
+- `Billing Amount`, `Room Number`,
 - `Admission Type`, `Discharge Date`,
 - `Medication`, `Test Results`
 
