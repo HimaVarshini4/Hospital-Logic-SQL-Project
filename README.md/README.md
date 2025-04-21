@@ -14,6 +14,29 @@ The dataset includes the following columns:
 - `Admission Type`, `Discharge Date`,
 - `Medication`, `Test Results`
 
+
+📂 Dataset
+The project uses a real-world healthcare dataset containing 55,000+ patient records with the following fields:
+
+Name, Age, Gender, Blood Type, Medical Condition, Date of Admission, Doctor, Hospital, Insurance Provider, Billing Amount, Room Number, Admission Type, Discharge Date, Medication, Test Results
+
+🗂️ File Name: healthcare_data.csv
+📁 Location: Dataset/ folder
+📦 Size: ~8 MB
+📄 Format: CSV (Comma-Separated Values)
+
+Note: Due to the large size, GitHub may render the dataset in raw format. A preview of a few sample rows is shown below.
+
+
+🧾 Sample Dataset Preview
+
+| Name        | Age | Gender | Blood Type | Condition      | Admission Date | Doctor     | Billing Amount |
+|-------------|-----|--------|------------|----------------|----------------|------------|----------------|
+| John Doe    | 45  | Male   | A+         | Hypertension   | 2022-01-10     | Dr. Smith  | $1,200         |
+| Jane Smith  | 30  | Female | B-         | Diabetes       | 2022-03-22     | Dr. Allen  | $950           |
+| Sam Wilson  | 67  | Male   | AB+        | Heart Disease  | 2021-11-15     | Dr. Patel  | $3,400         |
+
+
 ---
 
 ## 🎯 Project Objectives
